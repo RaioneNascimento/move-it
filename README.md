@@ -1,12 +1,14 @@
-# move-it
+# Move iT
 
-## Aplicação em construção
+## 🚧 Aplicação em construção 🚧
 
-No momento estou estudando/trabalhando no projeto Move-it que está sendo lançado na semana Next Level Week #4 da [Rocketseat](http://rocketseat.com.br). 
+Move iT é uma aplicação com exercícios ótimos para quem passa longas jornadas sentado, auxiliando a manter os exercícios em dia. Se você é uma dessas pessoas, precisa conhecer o **Move iT**. 
 
-Logo logo estará disponível :)
+Completando os desafios, você ganha experiência para atingir os mais altos níveis.
+
+Fique ligado que logo logo estará disponível :)
 
 <div align='center'>
-  <img width="400px" src="src/images/banner-dev.svg" >
+  <img width="400px" src="public/mk/banner-dev.svg" >
 </div>
 
