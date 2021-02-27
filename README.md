@@ -47,7 +47,7 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
 </h3>
 
 <h1 align=center>
-  <img width="1000px"src="./public/imgs/home_screen.png" alt="Tela Web"/>
+  <img width="1000px"src="./public/imgs/screen.png" alt="Tela Web"/>
 </h1>
 
 
