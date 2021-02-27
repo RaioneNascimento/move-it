@@ -22,7 +22,7 @@
   <a href="https://www.typescriptlang.org/#" target="_blank">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-USED-%23066BDD">
   </a>
-  
+
   <!-- Next.js -->
   <a href="https://www.sqlite.org/docs.html" target="_blank">
     <img alt="SQLite" src="https://img.shields.io/badge/Next.js%20-USED-%23E75097">
@@ -47,19 +47,20 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
 </h3>
 
 <h1 align=center>
-  <img width="1000px"src="./public/img/home_devices.png" alt="Tela Web"/>
+  <img width="1000px"src="./public/imgs/home_screen.png" alt="Tela Web"/>
 </h1>
 
 
 ## 🚀 Objetivo 
 
 <p align=justify> 
-  Move iT é uma aplicação com exercícios essenciais para quem passa várias horas do dia sentado no computador, auxiliando a manter o metabolismo em dia. Se você é uma dessas pessoas, precisa conhecer o **Move iT**. 
+  Move iT é uma aplicação com exercícios essenciais para quem passa várias horas do dia sentado no computador, auxiliando a manter o metabolismo em dia. Se você é uma dessas pessoas, precisa conhecer o <b>Move iT<b>. 
+
 
   Completando os desafios, você ganha experiência para atingir os mais altos níveis.
 </p>
 
-#### 📑 **Web** - ***HTML, CSS, JavaScript e ReactJS***
+#### 📑 **Web** - ***HTML, CSS, TypeScript, Next.js e React.js***
 
   - **[HTML](https://www.w3schools.com/html/html_intro.asp)**
   - **[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)**
@@ -77,7 +78,7 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
 
 ### *** Configurações Iniciais ***
 
-Primeiro, você precisa ter o [NodeJS](https://nodejs.org/en/download/) e o [Git](https://git-scm.com/) instalados na sua máquina. 
+Primeiro, você precisa ter o [Node.js](https://nodejs.org/en/download/) e o [Git](https://git-scm.com/) instalados na sua máquina. 
 
 Se você estiver utilizando o **Linux** ou **MacOS**, você pode optar por instalar o **Node** através do gerênciador de versões através do [link](https://nodejs.org/en/download/package-manager/) para facilitar o processo de mudança da versão do **Node**, quando for necessário.
 
@@ -92,7 +93,6 @@ $ git clone https://github.com/RaioneNascimento/move-it.git
 
 # Acesse a pasta da aplicação:
 $ cd move-it
-
 ```
 
 ### *** Instalação das dependências ***
@@ -151,5 +151,4 @@ Fica aqui o agradecimento ao Diego Fernandes e Mayk Brito por sempre ensinar alc
 <p align=center>
   Gostou do projeto? Me ajude deixando uma estrela 🤓
 </p>
-
 `made with 💜 by raionedeveloper © 2020`
