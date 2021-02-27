@@ -60,6 +60,8 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
   Completando os desafios, você ganha experiência para atingir os mais altos níveis.
 </p>
 
+Acesse a aplicação aqui [Move iT](https://move-it-flame-ten.vercel.app/)
+
 #### 📑 **Web** - ***HTML, CSS, TypeScript, Next.js e React.js***
 
   - **[HTML](https://www.w3schools.com/html/html_intro.asp)**
@@ -70,10 +72,10 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
 
 
 #### 👨🏽‍💻  **Utilitários**
-
+  - Deploy: **[Vercel](https://vercel.com/)**
   - Protótipo: **[Protótipo (Move iT)](https://www.figma.com/file/dS4bOPEtfpOMWLHTwaXnv7/Move.it-1.0-(Copy)?node-id=149898%3A199)**
   - Editor: **[Visual Studio Code](https://code.visualstudio.com/download)** 
-  - Imsomnia: **[Imsomnia]()**
+  - Imsomnia: **[Imsomnia](https://insomnia.rest/download/)**
   - Fontes: **[Inter](https://fonts.google.com/specimen/Inter?preview.text_type=custom)** | **[Rajdhani](https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom)**
 
 ### *** Configurações Iniciais ***
