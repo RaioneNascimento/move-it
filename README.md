@@ -58,7 +58,7 @@ Acesse a aplicação por aqui **[Move iT](https://moveit.raionenascimento.com.br
 ## 🚀 **Objetivo**
 
 <p align=justify> 
-  Move iT é uma aplicação com exercícios essenciais para quem passa várias horas do dia sentado no computador, auxiliando a manter o metabolismo em dia. Se você é uma dessas pessoas, precisa conhecer o <b>Move iT<b>. 
+  Move iT é uma aplicação com exercícios essenciais para quem passa várias horas do dia sentado no computador, auxiliando a manter o metabolismo em dia. Se você é uma dessas pessoas, precisa conhecer o <b>Move iT</b>. 
 
 
   Completando os desafios, você ganha experiência para atingir os mais altos níveis.
