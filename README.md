@@ -51,7 +51,11 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
 </h1>
 
 
-## 🚀 Objetivo 
+## 🔎 **Veja o projeto**
+Acesse a aplicação por aqui **[Move iT](https://moveit.raionenascimento.com.br/).**
+
+
+## 🚀 **Objetivo**
 
 <p align=justify> 
   Move iT é uma aplicação com exercícios essenciais para quem passa várias horas do dia sentado no computador, auxiliando a manter o metabolismo em dia. Se você é uma dessas pessoas, precisa conhecer o <b>Move iT<b>. 
@@ -60,9 +64,8 @@ Move-it é uma aplicação desenvolvida na semana da **Next Level Week #4**  da 
   Completando os desafios, você ganha experiência para atingir os mais altos níveis.
 </p>
 
-Acesse a aplicação aqui [Move iT](https://move-it-flame-ten.vercel.app/)
 
-#### 📑 **Web** - ***HTML, CSS, TypeScript, Next.js e React.js***
+### 📑 **Web** - ***HTML, CSS, TypeScript, Next.js e React.js***
 
   - **[HTML](https://www.w3schools.com/html/html_intro.asp)**
   - **[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)**
@@ -71,14 +74,15 @@ Acesse a aplicação aqui [Move iT](https://move-it-flame-ten.vercel.app/)
   - **[React.js](https://pt-br.reactjs.org/)**
 
 
-#### 👨🏽‍💻  **Utilitários**
+### 👨🏽‍💻  **Utilitários**
   - Deploy: **[Vercel](https://vercel.com/)**
   - Protótipo: **[Protótipo (Move iT)](https://www.figma.com/file/dS4bOPEtfpOMWLHTwaXnv7/Move.it-1.0-(Copy)?node-id=149898%3A199)**
   - Editor: **[Visual Studio Code](https://code.visualstudio.com/download)** 
   - Imsomnia: **[Imsomnia](https://insomnia.rest/download/)**
   - Fontes: **[Inter](https://fonts.google.com/specimen/Inter?preview.text_type=custom)** | **[Rajdhani](https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom)**
 
-### *** Configurações Iniciais ***
+
+### **Configurações Iniciais**
 
 Primeiro, você precisa ter o [Node.js](https://nodejs.org/en/download/) e o [Git](https://git-scm.com/) instalados na sua máquina. 
 
@@ -87,7 +91,7 @@ Se você estiver utilizando o **Linux** ou **MacOS**, você pode optar por insta
 Você pode optar também por utilizar o **yarn** no lugar do **npm**. Você pode instalar clicando nesse [yarn](https://yarnpkg.com/), ou através do [link](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable).
 
 
-### *** Clonando aplicação ***
+## 💾 **Clonando aplicação**
 
 ```sh
 # Faça o clone dos arquivos:
@@ -97,7 +101,7 @@ $ git clone https://github.com/RaioneNascimento/move-it.git
 $ cd move-it
 ```
 
-### *** Instalação das dependências ***
+## 💽 **Instalação das dependências**
 
 Aqui iremos instalar as dependências contidas nos arquivos `package.json`, que podemos encontrar na raíz do repositório. Para instalar as dependências, basta abrir o terminal dentro de **move-it** e digitar os comandos:
 
@@ -105,13 +109,13 @@ Aqui iremos instalar as dependências contidas nos arquivos `package.json`, que 
 # Instalar todas as dependências:
 $ yarn install ou npm i
 
-# Rodar aplicação:
+# Iniciando aplicação:
 $ yarn dev
 ```
 Após o procedimento, abra o navegador através do link ``http://localhost:3000``. 
 
 
-## 🙏 Considerações finais
+## 🙏 **Considerações finais**
 
 Fica aqui o agradecimento ao Diego Fernandes e Mayk Brito por sempre ensinar alcançar o próximo nível e nos mostrar que ***o aprendizado é contínuo e sempre haverá um próximo nível***.
 
